@@ -17,12 +17,14 @@
       "id_user": 1,
     },
   ],
-  "current_location": {
-    "id": 1,
-    "id_house": 1,
-    "id_user": 1,
-    "rent": 600,
-    "start_date": 2019-07-22,
-    "end_date": 2019-12-10,
-  }
+  "current_location": [
+    {
+      "id": 1,
+      "id_house": 1,
+      "id_user": 1,
+      "rent": 600,
+      "start_date": 2019-07-22,
+      "end_date": 2019-12-10,
+    }
+  ]
 }
