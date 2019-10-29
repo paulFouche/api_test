@@ -7,7 +7,7 @@
       "firstname": "Paul",
       "lastname": "Fouche",
       "id_house": 1,
-    },
+    }
   ],
   "tickets": [
     {
@@ -15,7 +15,7 @@
       "body": "some comment",
       "id_house": 1,
       "id_user": 1,
-    },
+    }
   ],
   "current_location": [
     {
