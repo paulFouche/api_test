@@ -7,7 +7,7 @@
       "firstname": "Paul",
       "lastname": "Fouche",
       "mail": "paul-fouche@outlook.fr",
-      "tel": "+33 6 35 57 58 74"
+      "tel": "+33 6 35 57 58 74",
       "id_house": 1
     }
   ],
@@ -43,7 +43,7 @@
       "id_house": 1,
       "id_user": 1,
       "address": "Rue de Haerne, 51 Etterbeek",
-      "name_house": "Kern-IT",Ts
+      "name_house": "Kern-IT",
       "rent": 600,
       "start_date": "2019-07-22",
       "end_date": "2019-12-10"
