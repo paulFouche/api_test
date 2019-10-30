@@ -6,13 +6,33 @@
       "password": "admin",
       "firstname": "Paul",
       "lastname": "Fouche",
+      "mail": "paul-fouche@outlook.fr",
+      "tel": "+33 6 35 57 58 74"
       "id_house": 1
     }
   ],
   "tickets": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "some comment 1",
+      "id_house": 1,
+      "id_user": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment 2",
+      "id_house": 1,
+      "id_user": 1
+    },
+    {
+      "id": 3,
+      "body": "some comment 3",
+      "id_house": 1,
+      "id_user": 1
+    },
+    {
+      "id": 4,
+      "body": "some comment 4",
       "id_house": 1,
       "id_user": 1
     }
@@ -23,7 +43,7 @@
       "id_house": 1,
       "id_user": 1,
       "address": "Rue de Haerne, 51 Etterbeek",
-      "name_house": "Kern-IT",
+      "name_house": "Kern-IT",Ts
       "rent": 600,
       "start_date": "2019-07-22",
       "end_date": "2019-12-10"
