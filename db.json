@@ -14,30 +14,35 @@
   "tickets": [
     {
       "id": 1,
+      "subject": "problem 1",
       "body": "some comment 1",
       "id_house": 1,
       "id_user": 1
     },
     {
       "id": 2,
+      "subject": "problem 2",
       "body": "some comment 2",
       "id_house": 1,
       "id_user": 1
     },
     {
       "id": 3,
+      "subject": "problem 3",
       "body": "some comment 3",
       "id_house": 1,
       "id_user": 1
     },
     {
       "id": 4,
+      "subject": "problem 4",
       "body": "some comment 4",
       "id_house": 1,
       "id_user": 1
     },
     {
       "id": 5,
+      "subject": "problem 5",
       "body": "some comment 4",
       "id_house": 1,
       "id_user": 2
