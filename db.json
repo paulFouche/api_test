@@ -35,6 +35,12 @@
       "body": "some comment 4",
       "id_house": 1,
       "id_user": 1
+    },
+    {
+      "id": 5,
+      "body": "some comment 4",
+      "id_house": 1,
+      "id_user": 2
     }
   ],
   "current_location": [
