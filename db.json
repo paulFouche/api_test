@@ -64,15 +64,15 @@
       "body": "response admin",
       "id_house": 1,
       "id_user": 0,
-      "id_ticket": 1,
+      "id_ticket": 1
     },
     {
       "id": 2,
       "body": "response user",
       "id_house": 1,
       "id_user": 1,
-      "id_ticket": 1,
-    },
+      "id_ticket": 1
+    }
   ],
   "current_location": [
     {
