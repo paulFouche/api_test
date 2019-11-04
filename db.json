@@ -9,6 +9,16 @@
       "mail": "paul-fouche@outlook.fr",
       "tel": "+33 6 35 57 58 74",
       "id_house": 1
+    },
+    {
+      "id": 0,
+      "login": "admin",
+      "password": "admin",
+      "firstname": "admin",
+      "lastname": "admin",
+      "mail": "paul-fouche@outlook.fr",
+      "tel": "+33 6 35 57 58 74",
+      "id_house": 1
     }
   ],
   "tickets": [
@@ -47,6 +57,22 @@
       "id_house": 1,
       "id_user": 2
     }
+  ],
+  "responses": [
+    {
+      "id": 1,
+      "body": "response admin",
+      "id_house": 1,
+      "id_user": 0,
+      "id_ticket": 1,
+    },
+    {
+      "id": 2,
+      "body": "response user",
+      "id_house": 1,
+      "id_user": 1,
+      "id_ticket": 1,
+    },
   ],
   "current_location": [
     {
