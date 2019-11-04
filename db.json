@@ -1,26 +1,5 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "login": "paulFouche",
-      "password": "admin",
-      "firstname": "Paul",
-      "lastname": "Fouche",
-      "mail": "paul-fouche@outlook.fr",
-      "tel": "+33 6 35 57 58 74",
-      "id_house": 1
-    },
-    {
-      "id": 0,
-      "login": "admin",
-      "password": "admin",
-      "firstname": "admin",
-      "lastname": "admin",
-      "mail": "paul-fouche@outlook.fr",
-      "tel": "+33 6 35 57 58 74",
-      "id_house": 1
-    }
-  ],
+
   "tickets": [
     {
       "id": 1,
